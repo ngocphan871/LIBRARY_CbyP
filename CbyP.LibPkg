@@ -132,23 +132,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HKPKFTPI
 
 [Document6]
-DocumentPath=IC_AUDIO.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HAONCAUP
-
-[Document7]
 DocumentPath=CONECTER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPZEMMSD
 
-[Document8]
+[Document7]
 DocumentPath=FERRITE BEADS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGWBEKED
 
-[Document9]
+[Document8]
 DocumentPath=CPU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSEFXTXV
 
-[Document10]
+[Document9]
 DocumentPath=CPU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMPNIVSK
 
-[Document11]
+[Document10]
 DocumentPath=Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPSGLDBQ
 
-[Document12]
+[Document11]
 DocumentPath=RES.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBQAASNL
 
-[Document13]
+[Document12]
 DocumentPath=MODULE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +250,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXPWBQPB
 
-[Document14]
+[Document13]
 DocumentPath=THU_VIEN_1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -283,6 +266,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWTBARHD
+
+[Document14]
+DocumentPath=IC_AUDIO.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HAONCAUP
 
 [Document15]
 DocumentPath=SEMI.SchLib
@@ -319,23 +319,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MDENVRYN
 
 [Document17]
-DocumentPath=THU_VIEN_1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PNDOHLXZ
-
-[Document18]
 DocumentPath=CAP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -352,7 +335,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGDYETJD
 
-[Document19]
+[Document18]
 DocumentPath=CONECTER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -368,6 +351,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCLLGMIL
+
+[Document19]
+DocumentPath=THU_VIEN_1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PNDOHLXZ
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -478,7 +478,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=BY-480
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
